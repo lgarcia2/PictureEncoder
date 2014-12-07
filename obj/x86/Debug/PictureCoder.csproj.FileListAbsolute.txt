@@ -1,0 +1,15 @@
+C:\Users\Luis\VisualStudioProjects\PictureCoder\bin\Debug\PictureCoder.exe
+C:\Users\Luis\VisualStudioProjects\PictureCoder\bin\Debug\PictureCoder.pdb
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\PictureCoder.Form1.resources
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\PictureCoder.Properties.Resources.resources
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\PictureCoder.exe
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\PictureCoder.pdb
+C:\Users\Luis\VisualStudioProjects\PictureCoder\bin\Debug\PictureCoder.exe.manifest
+C:\Users\Luis\VisualStudioProjects\PictureCoder\bin\Debug\PictureCoder.application
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\PictureCoder.exe.manifest
+C:\Users\Luis\VisualStudioProjects\PictureCoder\obj\x86\Debug\PictureCoder.application
+C:\Users\ijoll_000\Projects\PictureCoder\obj\x86\Debug\PictureCoder.exe
+C:\Users\ijoll_000\Projects\PictureCoder\obj\x86\Debug\PictureCoder.pdb
